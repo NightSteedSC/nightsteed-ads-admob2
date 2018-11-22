@@ -1,0 +1,33 @@
+{
+  "author": "NightSteed",
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "nightsteed-ads-admob2",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "deprecated": false,
+  "description": "NightSteed Ads API",
+  "keywords": [
+    "cordova",
+    "ads",
+    "banner",
+    "interstitial",
+    "rewarded video",
+    "monetization",
+    "ad",
+    "nightseed",
+    "plugins",
+    "ecosystem:cordova"
+  ],
+  "license": "@2018, NightSteed All Rights reserved",
+  "name": "nightsteed-ads-admob2",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NightSteedSC/nightsteed-ads-admob.git"
+  },
+  "url": "https://github.com/NightSteedSC/nightsteed-ads-admob.git",
+  "version": "1.0.0"
+}
